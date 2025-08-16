@@ -43,4 +43,6 @@ This project was both an academic challenge and a personal step toward a career 
 This project provides a data-driven framework for understanding NBA excellence.  
 It highlights the impact of superstar dominance, market influence, age, and physical archetypes in shaping the league’s Player of the Week awards. 
 
-
+# Author
+## Daiki Sai
+daikisai77@gmail.com | https://www.linkedin.com/in/daiki-sai/
